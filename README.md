@@ -1,13 +1,11 @@
-# DELLiVR 20190620 - 
-
-Intro to WebVR using Amazon Sumerian by [Kirby Shabaga](http://www.linkedin.com/in/kirbyshabaga)
+# DELLiVR 20190620 Intro to WebVR using Amazon Sumerian by [Kirby Shabaga](http://www.linkedin.com/in/kirbyshabaga)
 
 ## W3C Immersive Web
 
 * [Working Group](https://www.w3.org/immersive-web/)
 * [GitHub](https://github.com/immersive-web)
 
-## Amazon Sumerian inks
+## Amazon Sumerian Links
 
 * [Amazon Sumerian Tutorials](https://docs.sumerian.amazonaws.com/tutorials/)
 * [Amazon Sumerian YouTube](https://www.youtube.com/channel/UCm1ec-SgYpZO_4dCE_7h48g)
