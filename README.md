@@ -1,9 +1,11 @@
-# dellivr-20190620
+# DELLiVR 20190620 - 
 
 Intro to WebVR using Amazon Sumerian by [Kirby Shabaga](http://www.linkedin.com/in/kirbyshabaga)
 
+## W3C Immersive Web
 
-
+* [Working Group](https://www.w3.org/immersive-web/)
+* [GitHub](https://github.com/immersive-web)
 
 ## Amazon Sumerian inks
 
@@ -11,7 +13,7 @@ Intro to WebVR using Amazon Sumerian by [Kirby Shabaga](http://www.linkedin.com/
 * [Amazon Sumerian YouTube](https://www.youtube.com/channel/UCm1ec-SgYpZO_4dCE_7h48g)
 * [Amazon Sumerian Slack Channel](https://amazonsumerian.slack.com/join/shared_invite/enQtNTA1NjEyMTc4NTc2LThmZGVmMjhiN2ZjNDIzYzRjODQ0MTllNGY5ZGUxZjlhMDY3ZWNmNjA5ZjgzZDg3MzllZTU4M2FmNDQ2YTIxNDI)
 
-## Reference and things to xperiment with
+## Reference and things to experiment with
 
 * [Portal Test Chamber 00](https://theportalwiki.com/wiki/Portal_Test_Chamber_00)
 * [Poly by Google](https://poly.google.com/)
@@ -19,7 +21,7 @@ Intro to WebVR using Amazon Sumerian by [Kirby Shabaga](http://www.linkedin.com/
 
 ## Attribution for assets
 
-**Personal Use**
+### Personal Use
 
 * [Color Palette](https://www.color-hex.com/color-palette/4521)
 * [Portal Gun](https://free3d.com/3d-model/portal-gun-from-portal-2-74735.html)
@@ -36,6 +38,8 @@ A medium sized room with a radio, one light, and a poster on the wall with infor
 Seemingly, there is no way out.
 
 Activating the Radio starts music playing...and a countdown timer.  When the timer runs to zero, a sliding door opens.
+
+![Image of Yaktocat](https://github.com/TankAndDozer/dellivr-20190620/raw/master/sketches_screenshots/AreasABC.png)
 
 ## 1.0 Add VR support to a scene
 
